@@ -1,0 +1,20 @@
+{
+  "name": "pwa-manifest",
+  "title": "添加 PWA Manifest",
+  "version": "0.0.1",
+  "description": "BigCake\\pwa_manifest::general.description",
+  "author": "Big_Cake",
+  "url": "https://bigcake.cakemc.top/",
+  "namespace": "BigCake\\pwa_manifest",
+  "require": {
+    "blessing-skin-server": "^5|^6"
+  },
+  "enchants": {
+    "config": "Configuration",
+    "icon": {
+      "fa": "google",
+      "faType": "fab",
+      "bg": "success"
+    }
+  }
+}
